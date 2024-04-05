@@ -2,10 +2,7 @@
   height: 60px;
   width: auto;
 }
-@media (min-width: 490px) {
-.header-text{
-display: contents;
-}
+
 
 
 /* whatapp-icon css */
