@@ -40,6 +40,14 @@
   }
 }
 
+@media (min-width: 490px) {
+  .title-nametxt {
+   display: contents;
+  }
+}
+
+
+
 /********** Template CSS **********/
 :root {
   --primary: #216d8f;
